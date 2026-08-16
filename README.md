@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Top banner - wave effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Hakan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Game%20Developer%20%7C%20Godot%20%26%20GDScript%20%7C%20Creative%20Ideas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20Hakan%20Here%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Game%20Developer%20%7C%20Godot%20%26%20GDScript%20%7C%20Creative%20Ideas&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+games+with+Godot+4+%2B+GDScript;A+designer+chasing+fresh+twists+on+familiar+mechanics;From+idea+to+Google+Play%2C+every+step+of+the+way" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+games+with+Godot+4+%2B+GDScript;A+designer+chasing+fresh+twists+on+familiar+mechanics;From+idea+to+Google+Play%2C+every+step+of+the+way&v=2" alt="Typing SVG" />
 </a>
 
 </div>
