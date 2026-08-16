@@ -1,14 +1,20 @@
 <div align="center">
 
 <!-- Top banner - wave effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20Hakan%20Here%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Game%20Developer%20%7C%20Godot%20and%20GDScript%20%7C%20Creative%20Ideas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20Hakan%20Here%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Game%20%C2%B7%20Data%2FAI&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+games+with+Godot+4+%2B+GDScript;A+designer+chasing+fresh+twists+on+familiar+mechanics;From+idea+to+Google+Play%2C+every+step+of+the+way&v=2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Full-Stack+%26+Mobile+Development;Game+Development+with+Godot+4;Exploring+Data+%26+AI%2FML;From+idea+to+production%2C+every+step+of+the+way&v=3" alt="Typing SVG" />
 </a>
 
 </div>
+
+<br>
+
+## 👋 About Me
+
+I'm a **software developer** who moves across the stack — building web apps, mobile apps, games, and exploring data/AI along the way. I like finding fresh twists on familiar mechanics rather than just replicating what already exists.
 
 <br>
 
@@ -18,6 +24,7 @@
 - 🍳 **Recipe Road (Tarif Yolu)** — a 2.5D isometric cooking/travel game with a 3D globe interface
 - 🚌 **Public Transit Density Tracking System** — a real-time occupancy/density analysis project
 - 📱 Android & iOS release pipelines with Godot 4 (IAP, ads, Firebase, GPGS)
+- 🌐 Full-stack web projects and exploring data/AI-ML tooling
 
 <br>
 
@@ -30,8 +37,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
@@ -65,6 +75,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hakanozer.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-%C3%B6zer-8bab761b7/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hhakan_ozer)
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hozr)
