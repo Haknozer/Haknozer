@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top banner - wave effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20Hakan%20Here%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Game%20Developer%20%7C%20Godot%20%26%20GDScript%20%7C%20Creative%20Ideas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20Hakan%20Here%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Game%20Developer%20%7C%20Godot%20and%20GDScript%20%7C%20Creative%20Ideas&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
